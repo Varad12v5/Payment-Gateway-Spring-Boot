@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Payment Gateway (Spring Boot + Razorpay)
 
 A simple Spring Boot project that integrates Razorpay for payment processing. This project demonstrates how to create payment orders using the Razorpay API and provides a minimal frontend for testing payments.
@@ -60,4 +60,4 @@ Key dependencies from `pom.xml`:
 This project is for demo/educational purposes.
 =======
 Add and create Your Own Razorpay api keys
->>>>>>> f3e812b3529228952f156494780fec852fcea996
+ f3e812b3529228952f156494780fec852fcea996
